@@ -1,151 +1,47 @@
-# clone-tabnews
+# Projeto do Curso.dev
 
-Dia 1
+Este repositório faz parte das atividades práticas realizadas durante o **curso.dev**, onde desenvolvemos nossas habilidades em programação ao clonar um projeto seguindo as orientações do curso. O objetivo principal é consolidar conceitos fundamentais de desenvolvimento e aprimorar o entendimento de tecnologias modernas, por meio de um projeto guiado e repleto de desafios reais.
 
-- [✅] Aula 1
-- [✅] Aula 2
-- [✅] Aula 3
+---
 
-Dia 2
+## Sobre o Projeto
 
-- [✅] 🚗 Pista Rápida: Dia 2
-- [✅] Git? GitHub? É tudo a mesma coisa?
-- [✅] Repositório: onde tudo começa
-- [✅] Ambiente de Desenvolvimento
-- [✅] Codespaces
+O projeto consiste em replicar a estrutura, funcionalidades e design de um sistema já existente, com ênfase no aprendizado prático. Durante o processo, abordamos tópicos como:
 
-Dia 3
+- **Estruturação de projetos no GitHub**.
+- **Uso de linguagens de programação e frameworks relevantes**.
+- **Implementação de boas práticas de código**.
+- **Correção de bugs e análise crítica de funcionalidades**.
 
-- [✅] 🚗 Pista Rápida: Dia 3
-- [✅] A fundação
-- [✅] A primeira parede
+---
 
-Dia 4
+## Tecnologias Utilizadas
 
-- [✅] 🚗 Pista Rápida: Dia 4
-- [✅] Protocolos e rodando o site de forma local
-- [✅] Página inicial
-- [✅] Um desafio importante
+No **curso.dev**, exploramos uma ampla gama de tecnologias essenciais para o desenvolvimento moderno. Entre as principais utilizadas neste projeto, destacam-se:
 
-Dia 5
+- **Git e GitHub**: Controle de versão e colaboração em projetos.
+- **JavaScript**: A base da lógica e funcionalidade do projeto.
+- **Next.js**: Framework poderoso para criação de aplicações React com renderização server-side.
+- **React**: Biblioteca para construção de interfaces de usuário dinâmicas e responsivas.
+- **PostgreSQL**: Sistema de banco de dados relacional robusto e escalável.
+- **Testes Automatizados**: Garantia da qualidade do código e funcionalidade, utilizando ferramentas de ponta.
+- **Continuous Integration (CI)**: Automação de testes e processos de build para melhorar o fluxo de desenvolvimento.
+- **Infraestrutura como Código (IaC)**: Automação e padronização de ambientes de infraestrutura.
 
-- [✅] 🚗 Pista Rápida: Dia 5
-- [✅] Onde fica o "Git"? E como era feito antes disso?
-- [✅] Git Log (e o Jogo dos 7 Erros)
-- [✅] Git Commit (e a Escada Infinita)
-- [✅] Git Diff e Amend (e a Viagem no Tempo)
+Além dessas tecnologias principais, o curso aborda **outros 35 módulos e tecnologias complementares**, oferecendo uma formação completa e alinhada às demandas do mercado de trabalho.
 
-Dia 6
+---
 
-- [✅] 🚗 Pista Rápida: Dia 6
-- [✅] Git Push
-- [✅] Fazendo commits de forma mais rápida
-- [✅] Git Push De Novo (mas agora com ainda mais "força")
+## Objetivos do Curso
 
-Dia 7
+1. **Aprender na prática**: Aplicar os conhecimentos teóricos em um ambiente de desenvolvimento real.
+2. **Desenvolver habilidades técnicas**: Explorar ferramentas e tecnologias amplamente utilizadas no mercado.
+3. **Promover autonomia**: Encorajar a resolução de problemas e o pensamento crítico em desenvolvimento de software.
 
-- [✅] 🚗 Pista Rápida: Dia 7
-- [✅] Client e Server
-- [✅] Hospedagem e Deploy
-- [✅] Fazendo novos Deploys
-- [✅] Resolvendo um problema com Epilif
-- [✅] Encerramento do Desafio (Resultados de todo mundo) 🎉
+---
 
-Dia 8
+## Minha Jornada
 
-- [✅] 🚗 Pista Rápida: Dia 8
-- [✅] Programação "Orgânica" versus "Impressora 3D"
-- [✅] Por que meus projetos sempre dão certo?
+Este repositório reflete meu progresso e aprendizado ao longo do curso. Cada commit é um passo dado rumo à evolução como desenvolvedor, documentando erros, correções e conquistas.
 
-Dia 9
-
-- [✅] 🚗 Pista Rápida: Dia 9
-- [✅] Qual o “segredo” para organização de tarefas?
-- [✅] Como peitar projetos de qualquer tamanho?
-- [✅] Criando a primeira Milestone e Issues do Projeto
-
-Dia 10
-
-- [✅] 🚗 Pista Rápida: Dia 10
-- [✅] Uma história macabra sobre "Estilização de Código"
-- [✅] Sincronização das configurações do Editor
-- [✅] Configurar o EditorConfig
-- [✅] Configurar o Prettier
-- [✅] 🎁 Extra: Configurar o Prettier Ignore
-
-Dia 11
-
-- [✅] 🚗 Pista Rápida: Dia 11
-- [✅] Resolução de DNS (Desafio Nível 1)
-- [✅] Resolução de DNS (Desafio Nível 2)
-
-Dia 12
-
-- [✅] 🚗 Pista Rápida: Dia 12
-- [✅] Registrar um Domínio Próprio
-- [✅] Configurar o Servidor de DNS
-- [✅] "Chorinho" sobre Servidor de DNS 💪
-- [✅] 🏳️ Capture The Flag: DNS
-
-Dia 13
-
-- [✅] 🚗 Pista Rápida: Dia 13
-- [✅] Página "Em Construção" e Encerramento da Milestone 0
-- [✅] Não confie em nenhum serviço 🛑
-
-Dia 14
-
-- [✅] 🚗 Pista Rápida: Dia 14
-- [✅] 🎁 Bônus: PoC e MVP ajudam mesmo?
-- [✅] Inauguração Milestone 1: Fundação
-- [✅] Uma história macabra sobre "Overengineering"
-- [✅] Proposta de Arquitetura e Pastas
-
-Dia 15
-
-- [✅] 🚗 Pista Rápida: Dia 15
-- [✅] Testes Automatizados: um caminho sem volta
-- [✅] Instalar um Test Runner
-- [✅] Criar um "Teste de Teste"
-- [✅] Criar um "Teste de Verdade"
-
-Dia 16
-
-- [✅] 🚗 Pista Rápida: Dia 16
-- [✅] A maior briga no universo dos Testes Automatizados
-- [✅] Encostando a mão no Protocolo HTTP 🔥
-- [✅] Não é magia! (é Protocolo)
-- [✅] Versionamento de API e Endpoint "/status"
-
-Dia 17
-
-- [✅] 🚗 Pista Rápida: Dia 17
-- [✅] Qual Banco de Dados escolher?
-- [✅] Por que o Docker dominou o mundo?
-- [✅] Subir Banco de Dados (Local)
-- [✅] Se conectando no Banco de Dados (Local)
-
-Dia 18
-
-- [✅] 🚗 Pista Rápida: Dia 18
-- [✅] Criar módulo "database.js"
-- [✅] A importância das Variáveis de Ambiente
-- [✅] Variáveis de Ambiente no Código
-- [✅] Variáveis de Ambiente no Docker Compose
-
-Dia 19
-
-- [✅] 🚗 Pista Rápida: Dia 19
-- [✅] Foi certo fazer o commit do .env?
-- [✅] Uma história macabra sobre "Choque Elétrico" e "TDD"
-- [✅] Configurar o "baseUrl" para "Absolute Imports"
-- [✅] Configurar scripts dos serviços
-
-Dia 20
-
-- [✅] 🚗 Pista Rápida: Dia 20
-- [✅] Endpoint "/status": ISO 8601 + Fuso + MVC + lowerCamelCase
-- [✅] Database "Version" (+ Red, Green e Refactor do TDD)
-- [✅] Database "Max Connections"
-- [] Database "Opened Connections"
-- [] SQL Injection e Queries Parametrizadas
+---
